@@ -8,3 +8,5 @@ editor: visual
 ## 601 Challenge 8
 
 The last movie I watched in a theater was Oppenheimer.
+
+I ate ramen noodles for lunch today.
