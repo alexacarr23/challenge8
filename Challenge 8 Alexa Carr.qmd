@@ -1,0 +1,10 @@
+---
+title: "601 Challenge 8"
+author: "Alexa Carr"
+format: html
+editor: visual
+---
+
+## 601 Challenge 8
+
+The last movie I watched in a theater was Oppenheimer.
